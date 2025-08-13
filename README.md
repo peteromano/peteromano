@@ -15,7 +15,7 @@ As a software architecture firm, we offer web development consulting services fo
 
 ## ⚙️ HOW WE DO IT
 
-We offer modular, fixed-price plans for each SDLC phase, similar to a construction project — saving you time and money as compared to hourly billing.
+We offer modular, fixed-price plans for each SDLC phase of our Restruct™ methodology, similar to a construction project — saving you time and money as compared to hourly billing.
 
 ## 🚀 WHY WE SUCCEED
 
