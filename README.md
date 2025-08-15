@@ -17,7 +17,7 @@ As a software architecture firm, we offer web development consulting services fo
 
 We offer modular, fixed-price plans for each SDLC phase of our **[Restruct™ methodology](https://vestive.com/restruct-methodology)**, similar to a construction project — saving you time and money as compared to hourly billing.
 
-## 🚀 WHY WE SUCCEED
+## 🎯 WHY WE SUCCEED
 
 Our innovative plans are optimized for each step of your software investment, allowing you to yield your most rapid & valuable ROI by:
    * Hiring fractional experts at a flat monthly rate
