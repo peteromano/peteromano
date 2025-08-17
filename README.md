@@ -29,4 +29,4 @@ Or all of the above, whenever you need, however you want to mix it up! Stop wast
 
 **💡 For better IT investments, better get Vestive.**
 
-Interested in learning more? Visit 👉 https://vestive.com
+Learn more at 👉 https://vestive.com
