@@ -22,7 +22,7 @@ We offer modular, fixed-price plans for each SDLC phase of our **[Restruct™ me
 Our innovative plans are optimized for each step of your software investment, allowing you to yield your most rapid & valuable ROI by:
    * Hiring fractional experts at a flat monthly rate
    * Short day-rate bursts for foundational setup
-   * Fixed pricing per 3-week feature set
+   * Fixed, guaranteed pricing per 3-week feature-set
    * Lean labor for polishing up your project
 
 Or all of the above, whenever you need, however you want to mix it up! Stop wasting time, paying for hours you don't need, and remember:
